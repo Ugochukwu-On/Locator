@@ -73,5 +73,1008 @@
                 ]
             }
         ]
-    }
+        
+    },
+    {
+        "name": "South West",
+        "states": [
+          {
+            "name": "Ekiti",
+            "lgas": [
+                {
+                    "name": "Ado Ekiti",
+                    "metadata":{
+                        "population": 469700,
+                        "area":"277.8 square kilometers"
+                    }
+                },
+              {
+                "name": "Efon",
+                "metadata": {
+                  "population": 130600,
+                  "area": "238.3 square kilometers"
+                }
+              },
+              {
+                "name": "Ekiti East",
+                "metadata": {
+                  "population": 207100,
+                  "area": "303.5 square kilometers"
+                }
+              },
+              {
+                "name": "Ekiti South-West",
+                "metadata": {
+                  "population": 165277,
+                  "area": "346 square kilometers"
+                }
+              },
+              {
+                "name": "Ekiti West",
+                "metadata": {
+                  "population": 268900,
+                  "area": "373.8  square kilometers"
+                }
+              },
+              {
+                "name": "Emure",
+                "metadata": {
+                  "population": 141200,
+                  "area": "256.2 square kilometers"
+                }
+              },
+              {
+                "name": "Gbonyin",
+                "metadata": {
+                  "population": 221600,
+                  "area": "459 square kilometers"
+                }
+              },
+              {
+                "name": "Ido Osi",
+                "metadata": {
+                  "population": 239600,
+                  "area": "228.1 square kilometers"
+                }
+              },
+              {
+                "name": "Ijero",
+                "metadata": {
+                  "population": 332200,
+                  "area": "361.9 square kilometers"
+                }
+              },
+              {
+                "name": "Ikere",
+                "metadata": {
+                  "population": 222400,
+                  "area": "294.1 square kilometers"
+                }
+              },
+              {
+                "name": "Ikole",
+                "metadata": {
+                  "population": 255200,
+                  "area": "1,034  square kilometers"
+                }
+              },
+              {
+                "name": "Ilejemeje",
+                "metadata": {
+                  "population": 65100,
+                  "area": "97.16 square kilometers"
+                }
+              },
+              {
+                "name": "Irepodun/Ifelodun",
+                "metadata": {
+                  "population": 196700,
+                  "area": "339.9 square kilometers"
+                }
+              },
+              {
+                "name": "Ise/Orun",
+                "metadata": {
+                  "population": 170600,
+                  "area": "428.6 square kilometers"
+                }
+              },
+              {
+                "name": "Moba",
+                "metadata": {
+                  "population": 217700,
+                  "area": "219.8 square kilometers"
+                }
+              },
+              {
+                "name": "Oye",
+                "metadata": {
+                  "population": 206300,
+                  "area": "579.4 square kilometers"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Lagos",
+            "lgas": [
+                {
+                    "name": "Agege",
+                    "metadata":{
+                        "population": 683600,
+                        "area": "12.25 square kilometers"
+                    }
+                },
+              {
+                "name": "Ajeromi-Ifelodun",
+                "metadata": {
+                  "population": 1017500,
+                  "area": "12.49 square kilometers"
+                }
+              },
+              {
+                "name": "Alimosho",
+                "metadata": {
+                  "population": 1953500,
+                  "area": "183.5 square kilometers"
+                }
+              },
+              {
+                "name": "Amuwo-Odofin",
+                "metadata": {
+                  "population":  487000,
+                  "area": " 114.2 square kilometers"
+                }
+              },
+              {
+                "name": "Apapa",
+                "metadata": {
+                  "population": 330100,
+                  "area": "40.40square kilometers"
+                }
+              },
+              {
+                "name": "Badagry",
+                "metadata": {
+                  "population": 351900,
+                  "area": "445.6 square kilometers"
+                }
+              },
+              {
+                "name": "Epe",
+                "metadata": {
+                  "population": 269000,
+                  "area": "1,315 square kilometers"
+                }
+              },
+              {
+                "name": "Eti Osa",
+                "metadata": {
+                  "population": 420100,
+                  "area": "174.9 square kilometers"
+                }
+              },
+              {
+                "name": "Ibeju-Lekki",
+                "metadata": {
+                  "population": 174400,
+                  "area": "415.9 square kilometers"
+                }
+              },
+              {
+                "name": "Ifako-Ijaiye",
+                "metadata": {
+                  "population": 633200,
+                  "area": "32.21 square kilometers"
+                }
+              },
+              {
+                "name": "Ikeja",
+                "metadata": {
+                  "population": 470200,
+                  "area": "42.31 square kilometers"
+                }
+              },
+              {
+                "name": "Ikorodu",
+                "metadata": {
+                  "population": 781500,
+                  "area": "411.3 square kilometers"
+                }
+              },
+              {
+                "name": "Kosofe",
+                "metadata": {
+                  "population": 1010800,
+                  "area": "59.99 square kilometers"
+                }
+              },
+              {
+                "name": "Lagos Island",
+                "metadata": {
+                  "population": 314900,
+                  "area": "5.048 square kilometers"
+                }
+              },
+              {
+                "name": "Lagos Mainland",
+                "metadata": {
+                  "population": 483600,
+                  "area": "20.18 square kilometers"
+                }
+              },
+              {
+                "name": "Mushin",
+                "metadata": {
+                  "population": 935400,
+                  "area": "17.01 square kilometers"
+                }
+              },
+              {
+                "name": "Ojo",
+                "metadata": {
+                  "population": 901800,
+                  "area": "172.7 square kilometers"
+                }
+              },
+              {
+                "name": "Oshodi-Isolo",
+                "metadata": {
+                  "population": 931300,
+                  "area": "54.04 square kilometers"
+                }
+              },
+              {
+                "name": "Shomolu",
+                "metadata": {
+                  "population": 597400,
+                  "area": "10.30 square kilometers"
+                }
+              },
+              {
+                "name": "Surulere",
+                "metadata": {
+                  "population": 744400,
+                  "area": "20.01 square kilometers"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Ogun",
+            "lgas": [
+                {
+                    "name": "Abeokuta North",
+                    "metadata": {
+                      "population": 338100,
+                      "area": "785.8 square kilometers"
+                    }
+                  },
+              {
+                "name": "Abeokuta South",
+                "metadata": {
+                  "population": 45700,
+                  "area": "59.63 square kilometers"
+                }
+              },
+              {
+                "name": "Ado-Odo/Ota",
+                "metadata": {
+                  "population": 896700,
+                  "area": "854.0 square kilometers"
+                }
+              },
+              {
+                "name": "Egbado North(Yewa North)",
+                "metadata": {
+                  "population": 312700,
+                  "area": "1,954 square kilometers"
+                }
+              },
+              {
+                "name": "Egbado South (Yewa South)",
+                "metadata": {
+                  "population": 286300,
+                  "area": "668.5 square kilometers"
+                }
+              },
+              {
+                "name": "Ewekoro",
+                "metadata": {
+                  "population": 93700,
+                  "area": "635.9 square kilometers"
+                }
+              },
+              {
+                "name": "Ifo",
+                "metadata": {
+                  "population": 917000,
+                  "area": "465.7 square kilometers"
+                }
+              },
+              {
+                "name": "Ijebu East",
+                "metadata": {
+                  "population": 185900,
+                  "area": "2,023 square kilometers"
+                }
+              },
+              {
+                "name": "Ijebu North",
+                "metadata": {
+                  "population": 477100,
+                  "area": "1074 square kilometers"
+                }
+              },
+              {
+                "name": "Ijebu North East",
+                "metadata": {
+                  "population": 117000,
+                  "area": "145.3 square kilometers"
+                }
+              },
+              {
+                "name": "Ijebu Ode",
+                "metadata": {
+                  "population": 267300,
+                  "area": "213.3 square kilometers"
+                }
+              },
+              {
+                "name": "Ikenne",
+                "metadata": {
+                  "population": 202600,
+                  "area": "179.4 square kilometers"
+                }
+              },
+              {
+                "name": "Imeko Afon",
+                "metadata": {
+                  "population": 141100,
+                  "area": "1,768 square kilometers"
+                }
+              },
+              {
+                "name": "Ipokia",
+                "metadata": {
+                  "population": 255800,
+                  "area": "563.8 square kilometers"
+                }
+              },
+              {
+                "name": "Obafemi Owode",
+                "metadata": {
+                  "population": 399800,
+                  "area": "1,600 square kilometers"
+                }
+              },
+              {
+                "name": "Odeda",
+                "metadata": {
+                  "population": 186300,
+                  "area": "1,320 square kilometers"
+                }
+              },
+              {
+                "name": "Odogbolu",
+                "metadata": {
+                  "population": 213700,
+                  "area": "2515.6 square kilometers"
+                }
+              },
+              {
+                "name": "Ogun Waterside",
+                "metadata": {
+                  "population": 126200,
+                  "area": "1,024 square kilometers"
+                }
+              },
+              {
+                "name": "Remo North",
+                "metadata": {
+                  "population": 101600,
+                  "area": "211.3 square kilometers"
+                }
+              },
+              {
+                "name": "Shagamu",
+                "metadata": {
+                  "population": 435200,
+                  "area": "605.6 square kilometers"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Ondo",
+            "lgas": [
+              {
+                "name": "Akoko North-West",
+                "metadata": {
+                  "population": 275100,
+                  "area": "371.2 square kilometers"
+                }
+              },
+              {
+                "name": "Akoko South-West",
+                "metadata": {
+                  "population": 325500,
+                  "area": "511.9 square kilometers"
+                }
+              },
+              {
+                "name": "Akoko South-East",
+                "metadata": {
+                  "population": 126600,
+                  "area": "225.2 square kilometers"
+                }
+              },
+              {
+                "name": "Akoko South-West",
+                "metadata": {
+                  "population": 350800,
+                  "area": "529 square kilometers"
+                }
+              },
+              {
+                "name": "Akure North",
+                "metadata": {
+                  "population": 200900,
+                  "area": "638.8 square kilometers"
+                }
+              },
+              {
+                "name": "Akure South",
+                "metadata": {
+                  "population": 553400,
+                  "area": "260.5 square kilometers"
+                }
+              },
+              {
+                "name": "Ese Odo",
+                "metadata": {
+                  "population": 243100,
+                  "area": "759.9 square kilometers"
+                }
+              },
+              {
+                "name": "Idanre",
+                "metadata": {
+                  "population": 199400,
+                  "area": "1,942 square kilometers"
+                }
+              },
+              {
+                "name": "Ifedore",
+                "metadata": {
+                  "population": 270900,
+                  "area": "383.7 square kilometers"
+                }
+              },
+              {
+                "name": "Ilaje",
+                "metadata": {
+                  "population": 445200,
+                  "area": "1,357 square kilometers"
+                }
+              },
+              {
+                "name": "Ile Oluji/Okeigbo",
+                "metadata": {
+                  "population": 264000,
+                  "area": "887.3 square kilometers"
+                }
+              },
+              {
+                "name": "Irele",
+                "metadata": {
+                  "population": 221400,
+                  "area": "959.7 square kilometers"
+                }
+              },
+              {
+                "name": "Odigbo",
+                "metadata": {
+                  "population": 356800,
+                  "area": "1,808 square kilometers"
+                }
+              },
+              {
+                "name": "Okitipupa",
+                "metadata": {
+                  "population": 359700,
+                  "area": "800.2 square kilometers"
+                }
+              },
+              {
+                "name": "Ondo East",
+                "metadata": {
+                  "population": 116900,
+                  "area": "318.1 square kilometers"
+                }
+              },
+              {
+                "name": "Ondo West",
+                "metadata": {
+                  "population": 443800,
+                  "area": "809.9 square kilometers"
+                }
+              },
+              {
+                "name": "Ose",
+                "metadata": {
+                  "population": 221400,
+                  "area": "1462 square kilometers"
+                }
+              },
+              {
+                "name": "Owo",
+                "metadata": {
+                  "population": 341400,
+                  "area": "1024 square kilometers"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Osun",
+            "lgas": [
+                {
+                    "name": "Aiyedaade",
+                    "metadata": {
+                        "population": 194200,
+                        "area": "999.1 square kilometers"
+                    }
+                },
+                {
+                    "name": "Aiyedire",
+                    "metadata": {
+                        "population": 99100,
+                        "area": "253.9 square kilometers"
+                    }
+                },
+                {
+                  "name": "Atakunmosa East",
+                  "metadata": {
+                    "population": 98800,
+                    "area": "390.5 square kilometers"
+                  }
+                },
+                {
+                  "name": "Atakunmosa West",
+                  "metadata": {
+                    "population": 88700,
+                    "area": "448.2 square kilometers"
+                  }
+                },
+              {
+                "name": "Boluwaduro",
+                "metadata": {
+                  "population": 92100,
+                  "area": "172.8 square kilometers"
+                }
+              },
+              {
+                "name": "Boripe",
+                "metadata": {
+                  "population": 180100,
+                  "area": "119.7 square kilometers"
+                }
+              },
+              {
+                "name": "Ede North",
+                "metadata": {
+                  "population": 108800,
+                  "area": "82.42 square kilometers"
+                }
+              },
+              {
+                "name": "Ede South",
+                "metadata": {
+                  "population": 98000,
+                  "area": "239.2 square kilometers"
+                }
+              },
+              {
+                "name": "Ife Central",
+                "metadata": {
+                  "population": 400000,
+                  "area": ""
+                }
+              },
+              {
+                "name": "Ife East",
+                "metadata": {
+                  "population": 244900,
+                  "area": "271.0 square kilometers"
+                }
+              },
+              {
+                "name": "Ife North",
+                "metadata": {
+                  "population": 199000,
+                  "area": "425.3 square kilometers"
+                }
+              },
+              {
+                "name": "Ife South",
+                "metadata": {
+                  "population": 174600,
+                  "area": "988.5 square kilometers"
+                }
+              },
+              {
+                "name": "Egbedore",
+                "metadata": {
+                  "population": 96000,
+                  "area": "281.2 square kilometers"
+                }
+              },
+              {
+                "name": "Ejigbo",
+                "metadata": {
+                  "population": 172000,
+                  "area": "373.8 square kilometers"
+                }
+              },
+              {
+                "name": "Ifedayo Central",
+                "metadata": {
+                  "population": 217100,
+                  "area": "136.3 square kilometers"
+                }
+              },
+              {
+                "name": "Ifedayo",
+                "metadata": {
+                  "population": 48700,
+                  "area": "112.3 square kilometers"
+                }
+              },
+              {
+                "name": "Ifelodun",
+                "metadata": {
+                  "population": 125200,
+                  "area": "132.1 square kilometers"
+                }
+              },
+              {
+                "name": "Ila",
+                "metadata": {
+                  "population": 138700,
+                  "area": "96.05 square kilometers"
+                }
+              },
+              {
+                "name": "Ilesa East",
+                "metadata": {
+                  "population": 136800,
+                  "area": "63.38 square kilometers"
+                }
+              },
+              {
+                "name": "Ilesa West",
+                "metadata": {
+                  "population": 138700,
+                  "area": "96.05 square kilometers"
+                }
+              },
+              {
+                "name": "Irepodun",
+                "metadata": {
+                  "population": 155200,
+                  "area": "8,996 square kilometers"
+                }
+              },
+              {
+                "name": "Irewole",
+                "metadata": {
+                  "population": 185400,
+                  "area": "256.5 square kilometers"
+                }
+              },
+              {
+                "name": "Isokan",
+                "metadata": {
+                  "population": 132500,
+                  "area": "238.8 square kilometers"
+                }
+              },
+              {
+                "name": "Iwo",
+                "metadata": {
+                  "population": 248400,
+                  "area": "244.7 square kilometers"
+                }
+              },
+              {
+                "name": "Obokun",
+                "metadata": {
+                  "population": 151700,
+                  "area": "510.8 square kilometers"
+                }
+              },
+              {
+                "name": "Odo Otin",
+                "metadata": {
+                  "population": 171500,
+                  "area": "259.4 square kilometers"
+                }
+              },
+              {
+                "name": "Ola Oluwa",
+                "metadata": {
+                  "population": 99000,
+                  "area": "320.8 square kilometers"
+                }
+              },
+              {
+                "name": "Olorunda",
+                "metadata": {
+                  "population": 170900,
+                  "area": "177.0 square kilometers"
+                }
+              },
+              {
+                "name": "Oriade",
+                "metadata": {
+                  "population": 192600,
+                  "area": "428.7 square kilometers"
+                }
+              },
+              {
+                "name": "Orolu",
+                "metadata": {
+                  "population": 133500,
+                  "area": "78.89 square kilometers"
+                }
+              },
+              {
+                "name": "Osogbo",
+                "metadata": {
+                  "population": 201900,
+                  "area": "126.0 square kilometers"
+                }
+              }
+            ]
+          },
+          {
+            "name": "Oyo",
+            "lgas": [
+              {
+                "name": "Afijio",
+                "metadata": {
+                  "population": 188900,
+                  "area": "916.7 square kilometers"
+                }
+              },
+              {
+                "name": "Akinyele",
+                "metadata": {
+                  "population": 302700,
+                  "area": "432.2 square kilometers"
+                }
+              },
+              {
+                "name": "Atiba",
+                "metadata": {
+                  "population": 240500,
+                  "area": "672.5 square kilometers"
+                }
+              },
+              {
+                "name": "Atisbo",
+                "metadata": {
+                  "population": 157200,
+                  "area": "3,109 square kilometers"
+                }
+              },
+              {
+                "name": "Egbeda",
+                "metadata": {
+                  "population": 405400,
+                  "area": "229.3 square kilometers"
+                }
+              },
+              {
+                "name": "Ibadan North",
+                "metadata": {
+                  "population": 440400,
+                  "area": "19.43 square kilometers"
+                }
+              },
+              {
+                "name": "Ibadan North-East",
+                "metadata": {
+                  "population": 473700,
+                  "area": "19.94 square kilometers"
+                }
+              },
+              {
+                "name": "Ibadan North-West",
+                "metadata": {
+                  "population": 220100,
+                  "area": "14.31 square kilometers"
+                }
+              },
+              {
+                "name": "Ibadan South-East",
+                "metadata": {
+                  "population": 380800,
+                  "area": "15.14 square kilometers"
+                }
+              },
+              {
+                "name": "Ibadan South-West",
+                "metadata": {
+                  "population": 404600,
+                  "area": "25.13 square kilometers"
+                }
+              },
+              {
+                "name": "Ibarapa Central",
+                "metadata": {
+                  "population": 147600,
+                  "area": "437.4 square kilometers"
+                }
+              },
+              {
+                "name": "Ibarapa East",
+                "metadata": {
+                  "population": 167500,
+                  "area": "753.4 square kilometers"
+                }
+              },
+              {
+                "name": "Ibarapa North",
+                "metadata": {
+                  "population": 143300,
+                  "area": "1,201 square kilometers"
+                }
+              },
+              {
+                "name": "Ido",
+                "metadata": {
+                  "population": 148800,
+                  "area": "756.6 square kilometers"
+                }
+              },
+              {
+                "name": "Irepo",
+                "metadata": {
+                  "population": 173300,
+                  "area": "1,010 square kilometers"
+                }
+              },
+              {
+                "name": "Iseyin",
+                "metadata": {
+                  "population": 365300,
+                  "area": "2,341 square kilometers"
+                }
+              },
+              {
+                "name": "Itesiwaju",
+                "metadata": {
+                  "population": 182100,
+                  "area": "980.3 square kilometers"
+                }
+              },
+              {
+                "name": "Iwajowa",
+                "metadata": {
+                  "population": 147000,
+                  "area": "2,542 square kilometers"
+                }
+              },
+              {
+                "name": "Kajola",
+                "metadata": {
+                  "population": 286600,
+                  "area": "664.2 square kilometers"
+                }
+              },
+              {
+                "name": "Lagelu",
+                "metadata": {
+                  "population": 211700,
+                  "area": "405.4 square kilometers"
+                }
+              },
+              {
+                "name": "Ogbomosho North",
+                "metadata": {
+                  "population": 284200,
+                  "area": "180.9 square kilometers"
+                }
+              },
+              {
+                "name": "Ogbomosho South",
+                "metadata": {
+                  "population": 143500,
+                  "area": "44.36 square kilometers"
+                }
+              },
+              {
+                "name": "Ogo Oluwa",
+                "metadata": {
+                  "population": 93200,
+                  "area": "435.7 square kilometers"
+                }
+              },
+              {
+                "name": "Olorunsogo",
+                "metadata": {
+                  "population": 116200,
+                  "area": "1,633 square kilometers"
+                }
+              },
+              {
+                "name": "Oluyole",
+                "metadata": {
+                  "population": 290800,
+                  "area": "660.0 square kilometers"
+                }
+              },
+              {
+                "name": "Ona Ara",
+                "metadata": {
+                  "population": 379500,
+                  "area": "319 square kilometers"
+                }
+              },
+              {
+                "name": "Orelope",
+                "metadata": {
+                  "population": 148600,
+                  "area": "930.1 square kilometers"
+                }
+              },
+              {
+                "name": "Ori Ire",
+                "metadata": {
+                  "population": 213500,
+                  "area": "2,060 square kilometers"
+                }
+              },
+              {
+                "name": "Oyo East",
+                "metadata": {
+                  "population": 177400,
+                  "area": "108.6 square kilometers"
+                }
+              },
+              {
+                "name": "Oyo West",
+                "metadata": {
+                  "population": 195000,
+                  "area": "505.0 square kilometers"
+                }
+              },
+              {
+                "name": "Saki East",
+                "metadata": {
+                  "population": 155700,
+                  "area": "1,320 square kilometers"
+                }
+              },
+              {
+                "name": "Saki West",
+                "metadata": {
+                  "population": 390500,
+                  "area": "2,060 square kilometers"
+                }
+              },
+              {
+                "name": "Surulere",
+                "metadata": {
+                  "population": 200600,
+                  "area": "846.3 square kilometers"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    
 ]
