@@ -3,8 +3,6 @@ import mongoose, { Document } from 'mongoose';
 interface Metadata {
     population: number;
     area: string;
-    languages: string[];
-    landmarks: string[];
 }
 
 interface LGA {
